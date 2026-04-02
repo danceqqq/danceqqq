@@ -1,60 +1,56 @@
-<h1 align="center">Hi there 👋 I'm danceqqq</h1>
-<h3 align="center">🚀 Full Stack Developer | Open Source Enthusiast | Pixel Perfectionist</h3>
-
----
-
-## 🔥 **Repository Legend**
-| Status | Meaning |
-|--------|---------|
-| ✅ | Completed • Performs necessary functionality |
-| 🏃 | **ACTIVELY WORKING** • Current focus area |
-| ❌ | Abandoned • Authorship issues or deprecated |
-| 🕓 | In Queue • Planned for next development cycle |
-
----
-
-## 📊 **Development Dashboard**
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danceqqq&theme=tokyonight&border=7aa2f7&background=1a1b26" alt="mystreak"/>
-  
-  <br>
-  
-  <a href="https://github.com/danceqqq?tab=repositories&q=&type=&language=&sort=updated">
-    <img src="https://github-profile-trophy.vercel.app/?username=danceqqq&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophy">
-  </a>
-  
-</div>
-
----
-
-## 🛠️ **Tech Stack**
-<div align="center">
-  
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=flat-square)
-  ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
-  ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
-  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
-  ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
-  
-</div>
-
----
-
-## 🌐 **Connect With Me**
-<div align="center">
-  
-  [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/MyAngelNeshumi)
-  [![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discordapp.com/users/844636528406822942)
-  
-</div>
-
----
+# 👋 **myangell**
 
 <div align="center">
   
-  💫 *"First, solve the problem. Then, write the code."* — John Johnson  
-  ⚡ Last profile update: **December 06, 2025**  
-  📈 Profile views: ![Profile Views](https://komarev.com/ghpvc/?username=danceqqq&color=blueviolet&style=flat-square)
-  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/danceqqq)
+[![Languages](https://img.shields.io/badge/Languages-Multilingual-FF6B6B?style=for-the-badge)](#)
+
 </div>
+
+---
+
+## 🚀 Обо мне
+
+> 💻 Full-stack разработчик с страстью к чистому коду и инновационным решениям  
+> 🌱 Постоянно изучаю новые технологии и улучшаю свои навыки  
+> 🔭 Работаю над интересными проектами на **JavaScript, C#, Python, Go** и других языках  
+> 🤝 Открыт к коллаборациям и новым вызовам
+
+---
+
+## 📊 Статистика и активность
+
+### 🔥 График контрибуций
+[![Contributions](https://github-readme-activity-graph.vercel.app/graph?username=danceqqq&theme=react-dark&hide_border=true&area=true)](https://github.com/danceqqq)
+
+---
+
+## 💻 Технологии и инструменты
+
+### Языки программирования
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TS">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">
+</p>
+
+### Фреймворки и платформы
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET">
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express">
+</p>
+
+### Инструменты
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+</p>
+
+---
